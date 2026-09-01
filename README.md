@@ -138,7 +138,10 @@ cd ssh-dashboard
 ```bash
 sudo bash install-ssh-dashboard.sh
 ```
-
+Альтернатива:
+```bash
+curl -fsSL https://raw.githubusercontent.com/sqesh57-commits/ssh-dashboard-sq/main/install-ssh-dashboard.sh | sudo bash
+```
 После установки:
 
 ```text
